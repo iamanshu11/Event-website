@@ -14907,7 +14907,22 @@ hr.style1 {
 .modal-carrer{
   padding: 0;
 }
+.work-realted-sec{
+  display: block;
+}
 
+@media only screen and (max-width:991px) {
+  .item {
+    width: 100%;
+    display: inline-block;
+    margin-top: 2rem;
+    filter: grayscale(100%);
+  }
+  .work-realted-sec{
+    display: none;
+  }
+
+}
 /**********************************/
 /********** Effect #10 CSS *********/
 /**********************************/
