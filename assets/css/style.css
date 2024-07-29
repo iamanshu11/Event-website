@@ -5152,12 +5152,18 @@ a.text-theme:hover,
 }
 
 @media (max-width: 991px) {
+    .header-logo img {
+        width: 80px;
+    }
     .header-logo {
         margin-top: 0;
     }
 }
 
 @media (max-width: 767px) {
+    .header-logo img {
+        width: 80px;
+    }
     .header-logo {
         margin-left: 0;
     }
@@ -15773,6 +15779,9 @@ hr.style1 {
   .container-data{
     display: contents;
   }
+  .crafting-data{
+    display: block;
+  }
 
   @media only screen and (max-width:991px) {
     .success{
@@ -15790,5 +15799,7 @@ hr.style1 {
       .client-say-data{
         display: block;
       }
-
+      .crafting-data{
+        display: none;
+      }
   }
