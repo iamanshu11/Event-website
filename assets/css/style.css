@@ -2092,7 +2092,7 @@ textarea.is-invalid {
 }
 
 .title-area .sec-title {
-    text-transform: capitalize;
+    /* text-transform: capitalize; */
     margin-bottom: 15px;
 }
 
@@ -10920,7 +10920,7 @@ span.select2-selection.select2-selection--single:focus {
     font-weight: 500;
     font-size: 16px;
     line-height: 26px;
-    text-transform: capitalize;
+    /* text-transform: capitalize; */
     color: #fff;
     margin-top: 16px;
     margin-bottom: 30px;
@@ -10954,7 +10954,7 @@ span.select2-selection.select2-selection--single:focus {
     font-weight: 400;
     font-size: 16px;
     line-height: 26px;
-    text-transform: capitalize;
+    /* text-transform: capitalize; */
     color: var(--black-color-2);
     margin-bottom: 33px;
 }
@@ -11070,7 +11070,7 @@ hr.style1 {
 
 .about-sec-three {
     margin: 0 150px;
-    padding: 20px 40px;
+    padding: 50px 40px;
     /* Extra large devices */
 }
 
@@ -12003,6 +12003,7 @@ hr.style1 {
 
 .team-sec-wrapper {
     margin: 0 150px;
+    padding: 50px 0px;
 }
 
 @media (max-width: 1600px) {
@@ -14722,7 +14723,7 @@ hr.style1 {
 .sub-title {
     font-family: "Inter";
     font-weight: 400;
-    font-size: 20px;
+    font-size: 34px;
     line-height: 100%;
     letter-spacing: .02em;
     /* text-transform: uppercase; */
