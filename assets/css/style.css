@@ -5153,7 +5153,7 @@ a.text-theme:hover,
 
 @media (max-width: 991px) {
     .header-logo img {
-        width: 80px;
+        width: 90px;
     }
     .header-logo {
         margin-top: 0;
@@ -5162,7 +5162,7 @@ a.text-theme:hover,
 
 @media (max-width: 767px) {
     .header-logo img {
-        width: 80px;
+        width: 90px;
     }
     .header-logo {
         margin-left: 0;
