@@ -10640,7 +10640,7 @@ span.select2-selection.select2-selection--single:focus {
     /* Large devices */
 }
 
-@media (max-width: 1199px) {
+/* @media (max-width: 1199px) {
     .contact-image.style3 {
         -webkit-animation: movingX-reverse 8s linear infinite;
         animation: movingX-reverse 8s linear infinite;
@@ -10652,7 +10652,7 @@ span.select2-selection.select2-selection--single:focus {
         -webkit-animation: movingX 8s linear infinite;
         animation: movingX 8s linear infinite;
     }
-}
+} */
 
 @media (max-width: 991px) {
     .contact-image {
@@ -14366,30 +14366,30 @@ hr.style1 {
 }
 
 .img-box4 .location:nth-child(2) {
-    top: 23%;
-    left: 30%;
+    top: 26%;
+    left: 29%;
     -webkit-animation-delay: 2s;
     animation-delay: 2s;
     z-index: 99;
 }
 
 .img-box4 .location:nth-child(3) {
-    top: 41%;
-    right: 27%;
+    top: 43%;
+    right: 35%;
     -webkit-animation-delay: 4s;
     animation-delay: 4s;
 }
 
 .img-box4 .location:nth-child(4) {
-    right: 53%;
-    bottom: 24%;
+    right: 54%;
+    bottom: 23%;
     -webkit-animation-delay: 6s;
     animation-delay: 6s;
 }
 
 .img-box4 .location:nth-child(5) {
-    left: 19%;
-    bottom: 42%;
+    left: 24%;
+    bottom: 39%;
     -webkit-animation-delay: 6s;
     animation-delay: 6s;
 }
@@ -14402,15 +14402,16 @@ hr.style1 {
 }
 
 .img-box4 .location:nth-child(7) {
-    left: 27%;
-    top: 29%;
+    left: 26%;
+    top: 31%;
     -webkit-animation-delay: 6s;
     animation-delay: 6s;
+    z-index: 99;
 }
 
 .img-box4 .location:nth-child(8) {
-    left: 30%;
-    top: 19%;
+    left: 33%;
+    top: 21%;
     -webkit-animation-delay: 6s;
     animation-delay: 6s;
 }
@@ -14425,7 +14426,7 @@ hr.style1 {
 @media (max-width: 575px) {
     .img-box4 .location:nth-child(3) {
         top: 37%;
-        right: 28%;
+        right: 35%;
     }
 }
 
@@ -14438,8 +14439,8 @@ hr.style1 {
 
 @media (max-width: 575px) {
     .img-box4 .location:nth-child(5) {
-        bottom: 162px;
-        left: 19%;
+        bottom: 154px;
+        left: 22%;
     }
 }
 
@@ -14452,7 +14453,7 @@ hr.style1 {
 
 @media (max-width: 575px) {
     .img-box4 .location:nth-child(7) {
-        bottom: 200px;
+        bottom: 253px;
         left: 25%;
         z-index: 99;
     }
