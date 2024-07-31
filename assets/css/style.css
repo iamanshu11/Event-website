@@ -15803,4 +15803,7 @@ hr.style1 {
       .crafting-data{
         display: none;
       }
+      .section-padding {
+        padding: 20px 0px;
+    }
   }
